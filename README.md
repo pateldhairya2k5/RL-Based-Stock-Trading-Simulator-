@@ -46,7 +46,7 @@ The goal is to explore how a reinforcement learning agent can adapt portfolio al
 8. After training, the learned policy is evaluated against a buy-and-hold strategy.
 
 # Project Structure
-
+```text
 .
 ├── MCsimulator.py
 └── README.md
