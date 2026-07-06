@@ -47,6 +47,7 @@ The goal is to explore how a reinforcement learning agent can adapt portfolio al
 
 # Project Structure
 
+.
 ├── MCsimulator.py
 └── README.md
 
